@@ -1,4 +1,6 @@
 # Diamond Dataset
+![diamond dataset](https://media.giphy.com/media/Z06UFnGuY0H9C/giphy.gif)
+
 ## Visualization Case Study. 
 
 I will go through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations.
