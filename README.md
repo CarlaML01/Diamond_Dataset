@@ -21,12 +21,12 @@ The dataset consists of almost 54,000 rows and 10 columns:
 
 > For the case study, I will concentrate only on the variables in the top five bullet points: price and the four 'C's of diamond grade. My focus will be on answering the question about the degree of importance that each of these quality measures has on the pricing of a diamond. 
 ### Follow up steps:
-**1) Univariate Exploration**
+**1) [Univariate Exploration](Univariate_Exploration_Diamonds.ipynb)**
 
-**2) Bivariate Exploration**
+**2) [Bivariate Exploration](Bivariate_Exploration_Diamonds.ipynb)**
 
-**3) Multivariate Exploration**
+**3) [Multivariate Exploration](Multivariate_Exploration_Diamonds.ipynb)**
 
-**4) Explanatory Polishing**
+**4) [Explanatory Polishing](Explanatory_Polishing.ipynb)**
 
 *The End*
