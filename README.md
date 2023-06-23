@@ -20,3 +20,9 @@ The dataset consists of almost 54,000 rows and 10 columns:
 - depth: Proportional depth of the diamond, as a percentage. This is computed as 2 * z / (x + y), or the ratio of the depth to the average of length and width.
 
 > For the case study, I will concentrate only on the variables in the top five bullet points: price and the four 'C's of diamond grade. My focus will be on answering the question about the degree of importance that each of these quality measures has on the pricing of a diamond. 
+### Follow up steps:
+** 1) Univariate Exploration **
+** 2) Bivariate Exploration **
+** 3) Multivariate Exploration **
+** 4) Explanatory Polishing **
+* The End *
